@@ -4,7 +4,7 @@
 
 |Content|link of the page|
 |:-----:|:---------------|
-|class-01|class-01|
+|class-01|[Click here to open](class-01)|
 |||
 |||
 |||
