@@ -190,6 +190,7 @@ next sibling of another, example ( h1+p {} ).
 2. multiple line comment and we start it with <!-- and close is with -->
 
 
+
 #### What is a variable
 * A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
 
