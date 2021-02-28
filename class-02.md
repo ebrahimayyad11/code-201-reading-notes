@@ -12,26 +12,26 @@
 
 
 #### Headings 
-1. h1
-2. h2
-3. h3
-4. h4
-5. h5
-6. h6
+1. (h1)
+2. (h2)
+3. (h3)
+4. (h4)
+5. (h5)
+6. (h6)
 
 
 #### Paragraphs
-* <p>
+* (p)
 
 
 #### Bold and Italic
-1. for Bold we use <b>
-2. for Italic we use <i>
+1. for Bold we use (b)
+2. for Italic we use (i)
 
 
 #### Superscript and Subscript
-1. for supscript we use <sup>
-2. for subscript we use <sub>
+1. for supscript we use (sup)
+2. for subscript we use (sub)
 
 
 #### white space
@@ -39,8 +39,8 @@
 
 
 #### Line Breaks and Horizantal Rules
-1. for Line Breaks we use <br />
-2. for Horizantal Rules we use <hr />
+1. for Line Breaks we use (br)
+2. for Horizantal Rules we use (br)
 
 
 #### Visual Editors & Their Code views
@@ -52,34 +52,34 @@ There are some text elements that are not intended to affect the structure of yo
 
 
 #### Strong and Emphasis
-1. for strong we use <strong>
-2. for emphasis we use <em>
+1. for strong we use (strong)
+2. for emphasis we use (em)
 
 
 #### Quotations 
-1. <blockquote>
-2. <q>
+1. (blockquote)
+2. (q)
 
 
 #### Abbreviations and Acronyms
-* <abbr>
+* (abbr)
 
 
 #### Citations and Definitions
-1. for Citations we use <cite>
-2. for Definitions we use <dfn>
+1. for Citations we use (cite)
+2. for Definitions we use (dfn)
 
 
 #### Author Details
-* <address>
+* (address)
 
 
 #### Changes to Content
-1. for inserted we use <ins>
+1. for inserted we use (ins)
 * can be used to show content that has been inserted into a document.
-2. for deleted we use <del>
+2. for deleted we use (del)
 * can show text that has been deleted from it.
-3. <s>
+3. (s)
 * it indicates something that is no longer accurate or relevant (but that should not be deleted).
 
 
