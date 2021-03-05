@@ -8,7 +8,7 @@
 |class-02|[Click here to open](class-02)|
 |class-03|[Click here to open](class-03)|
 |class-04|[Click here to open](class-04)|
-|||
+|class-05|[Click here to open](class-05)|
 |||
 |||
 |||
