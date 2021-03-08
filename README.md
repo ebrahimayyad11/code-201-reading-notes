@@ -10,7 +10,7 @@
 |class-04|[Click here to open](class-04)|
 |class-05|[Click here to open](class-05)|
 |class-06|[Click here to open](class-06)|
-|||
+|class-07|[Click here to open](class-07)|
 |||
 |||
 |||
