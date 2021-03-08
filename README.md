@@ -11,7 +11,7 @@
 |class-05|[Click here to open](class-05)|
 |class-06|[Click here to open](class-06)|
 |class-07|[Click here to open](class-07)|
-|class-07|[Click here to open](class-08)|
+|class-08|[Click here to open](class-08)|
 |||
 |||
 |||
