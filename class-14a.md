@@ -1,12 +1,74 @@
-# Summarizing
-##  What Google Learned From Its Quest to Build the Perfect Team
 
-* The article is round about Julia Rozovsky story , he wasn’t sure what he wanted to do with her life. he had worked at a consulting firm, but it wasn’t a good match. Then she became a researcher at Harvard, She applied to business schools and was accepted by the Yale School of Management.
-* Every day, between classes or after dinner, Rozovsky and her four teammates gathered to discuss homework assignments, compare spreadsheets and strategize for exams. Everyone was smart and curious, and they had a lot in common: They had gone to similar colleges and had worked at analogous firms.
-* Many of today’s most valuable firms have come to realize that analyzing and improving individual workers ­— a practice known as ‘‘employee performance optimization’’ — isn’t enough. As commerce becomes increasingly global and complex, the bulk of modern work is more and more team-based. software engineers are encouraged to work together, in part because studies show that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems. Studies also show that people working in teams tend to achieve better results and report higher job satisfaction.
-* and one of the WOW thigs that i read on this website that the GOOGLE; the tech giant has spent untold millions of dollars measuring nearly every aspect of its employees’ lives. Google’s People Operations department has scrutinized everything from how frequently particular people eat together (the most productive employees tend to build larger networks by rotating dining companions) to which traits the best managers share (unsurprisingly, good communication and avoiding micromanaging is critical.
-* We must be able to talk about what is messy or sad, to have hard conversations with colleagues who are driving us crazy. We can’t be focused just on efficiency. Rather, when we start the morning by collaborating with a team of engineers and then send emails to our marketing colleagues and then jump on a conference call, we want to know that those people really hear us. We want to know that work is more than just labor.
-* The company’s top executives long believed that building the best teams meant combining the best people. Rozovsky, now a lead researcher, needed to figure out which norms mattered most. Google’s research had identified dozens of behaviors that seemed important, except that sometimes the norms of one effective team contrasted sharply with those of another equally successful group.
-* The technology industry is not just one of the fastest growing parts of our economy; it is also increasingly the world’s dominant commercial culture.
+# Summarizing 
 
-![](https://lh3.googleusercontent.com/TAateRpOGZ7R8mKp6SYD7m19r4GNzV0OJSCyu-C8pSa4ewu4B3gI3DzoAcPWUsYlz784bynlrHMUGJSZAuNe-oU=w1614)
+
+
+## CSS `*Transforms*`
+
+> The transform property comes in two different settings, two-dimensional and three-dimensional.
+> Each of these come with their own individual properties and values.
+
+**Transform Syntax***
+
+> The actual syntax for the transform property is quite simple, including the transform property followed by the value. 
+> The value specifies the transform type followed by a specific amount inside parentheses.
+
+*Example*
+
+*** Rotate, skew, and scale three different `<div>` elements:***
+
+``` ruby
+div {
+  -webkit-transform: scale(1.5);
+     -moz-transform: scale(1.5);
+       -o-transform: scale(1.5);
+          transform: scale(1.5);
+}
+
+```
+
+# 2D Scaling Functions: `scale`, `scaleX`, and `scaleY`
+
+![](https://i0.wp.com/lenadesign.org/wp-content/uploads/2020/02/skew.gif?resize=580%2C435&ssl=1)
+
+
+> With scaling functions, we can increase or decrease the rendered size of an element in the X-dimension (scaleX), Y-dimension (scaleY), or both (scale). Scaling is illustrated below, where the border illustrates the original boundaries of the box, and the + marks its center point.
+
+
+# 3D transform functions
+
+![](https://gutenberghub.com/wp-content/uploads/2020/01/Screen-Recording-2020-01-18-at-01.38-PM.gif)
+
+> As a web designer, you’re probably well acquainted with working in two dimensions, `X `and `Y`, positioning items horizontally and vertically.
+> With a 3D space initialized with perspective, we can now transform elements in three spatial dimensions with the third Z dimension.
+
+*** 3D transforms use the same transform property used for 2D transforms. If you’re familiar with 2D transforms, you’ll find the basic 3D transform functions similar.***
+
+- `rotateX( angle )`
+- `rotateY( angle )`
+- `rotateZ( angle )`
+- `translateZ( tz )`
+- `scaleZ( sz )`
+
+# Perspective
+The `perspective` of an element can be set in two different ways. One way includes using the `perspective` value within the `transform` property on individual elements, while the other includes using the `perspective` property on the parent element residing over child elements being transformed.
+
+# Animations
+> When multiple transitions are required, the transition property becomes obsolete and the animation property becomes the focus. To set multiple points at which an element should transition, we use the` @keyframes` rule, which includes the animation name, any animation breakpoints, and the properties intended to be animated.
+
+``` ruby
+@keyframes slide {
+  0% {
+    left: 0;
+    top: 0;
+  }
+  50% {
+    left: 244px;
+    top: 100px;
+  }
+  100% {
+    left: 488px;
+    top: 0;
+  }
+}
+```
