@@ -7,7 +7,7 @@
 
 |Content|link of the page|
 |:-----:|:---------------|
- 
+|class-01|[Click here to open](301-class-01)|
 
 
 
