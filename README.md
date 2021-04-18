@@ -8,6 +8,7 @@
 |Content|link of the page|
 |:-----:|:---------------|
 |class-01|[Click here to open](301-class-01)|
+|class-02|[Click here to open](301-class-02)|
 
 
 
