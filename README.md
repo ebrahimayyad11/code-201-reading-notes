@@ -14,6 +14,8 @@
 |class-05|[Click here to open](301-class-05)|
 |class-06|[Click here to open](301-class-06)|
 |class-07|[Click here to open](301-class-07)|
+|class-08|[Click here to open](301-class-08)|
+
 
 
 
