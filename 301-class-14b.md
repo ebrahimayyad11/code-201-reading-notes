@@ -1,0 +1,1 @@
+* a website for travelling that you can choose the country that you want to visit and it will display to you the weather in this country for a week and the price of the ticket to go there and you cant but a plane ticket from the website
