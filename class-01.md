@@ -185,3 +185,4 @@ into groups. Grouping related pieces of information together can make a design e
 * remove used bedding .
 * wipe all surfaces .
 * vacum floors .
+ 
