@@ -12,21 +12,21 @@
 
 |Content|link of the page|
 |:-----:|:---------------|
-|class-01|[Click here to open](class-01)|
-|class-02|[Click here to open](class-02)|
-|class-03|[Click here to open](class-03)|
-|class-04|[Click here to open](class-04)|
-|class-05|[Click here to open](class-05)|
-|class-06|[Click here to open](class-06)|
-|class-07|[Click here to open](class-07)|
-|class-08|[Click here to open](class-08)|
-|class-09|[Click here to open](class-09)|
-|class-10|[Click here to open](class-10)|
-|class-11|[Click here to open](class-11)|
-|class-12|[Click here to open](class-12)|
-|class-13|[Click here to open](class-13)|
-|class-14a|[Click here to open](class-14a)|
-|class-14b|[Click here to open](class-14b)|
+|Introductory HTML and JavaScript|[Click here to open](class-01)|
+|HTML Text, CSS Introduction, and Basic JavaScript Instructions|[Click here to open](class-02)|
+|HTML Lists, CSS Boxes, JS Control Flow|[Click here to open](class-03)|
+|HTML Links, CSS Layout, JS Functions|[Click here to open](class-04)|
+|HTML Images; CSS Color & Text|[Click here to open](class-05)|
+|JS Object Literals; The DOM|[Click here to open](class-06)|
+|HTML Tables; JS Constructor Functions|[Click here to open](class-07)|
+|More CSS Layout|[Click here to open](class-08)|
+|Forms and Events|[Click here to open](class-09)|
+|JS Debugging|[Click here to open](class-10)|
+|Assorted Topics|[Click here to open](class-11)|
+|Docs for the HTML (canvas) Element & Chart.js|[Click here to open](class-12)|
+|Local Storage|[Click here to open](class-13)|
+|CSS Transforms, Transitions, and Animations|[Click here to open](class-14a)|
+|What Google Learned About Teams|[Click here to open](class-14b)|
 
 
 
@@ -35,22 +35,22 @@
 
 |Content|link of the page|
 |:-----:|:---------------|
-|class-01|[Click here to open](301-class-01)|
-|class-02|[Click here to open](301-class-02)|
-|class-03|[Click here to open](301-class-03)|
-|class-04|[Click here to open](301-class-04)|
-|class-05|[Click here to open](301-class-05)|
-|class-06|[Click here to open](301-class-06)|
-|class-07|[Click here to open](301-class-07)|
-|class-08|[Click here to open](301-class-08)|
-|class-09|[Click here to open](301-class-09)|
-|class-10|[Click here to open](301-class-10)|
-|class-11|[Click here to open](301-class-11)|
-|class-12|[Click here to open](301-class-12)|
-|class-13|[Click here to open](301-class-13)|
-|class-14a|[Click here to open](301-class-14a)|
-|class-14b|[Click here to open](301-class-14b)|
-|class-15|[Click here to open](301-class-15)|
+|SMACSS and Responsive Web Design|[Click here to open](301-class-01)|
+|jQuery, Events, and The DOM|[Click here to open](301-class-02)|
+|Flexbox and Templating|[Click here to open](301-class-03)|
+|Responsive Web Design and Regular Expressions|[Click here to open](301-class-04)|
+|Heroku Deployment|[Click here to open](301-class-05)|
+|Node, Express, and APIs|[Click here to open](301-class-06)|
+|Read: What Google Learned About Teams|[Click here to open](301-class-07)|
+|SQL|[Click here to open](301-class-08)|
+|Refactoring|[Click here to open](301-class-09)|
+|The Call Stack and Debugging|[Click here to open](301-class-10)|
+|EJS|[Click here to open](301-class-11)|
+|Components|[Click here to open](301-class-12)|
+|Update/Delete|[Click here to open](301-class-13)|
+|DB Normalization|[Click here to open](301-class-14a)|
+|the ideas for the final project|[Click here to open](301-class-14b)|
+|Diversity and Inclusion|[Click here to open](301-class-15)|
 
 
 
@@ -60,5 +60,5 @@
 
 |Content|link of the page|
 |:-----:|:---------------|
-|class-01|[Click here to open](401-class-01)|
+|Pain and Suffering and Beginners Guide to Big O|[Click here to open](401-class-01)|
 
