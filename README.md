@@ -61,4 +61,5 @@
 |Content|link of the page|
 |:-----:|:---------------|
 |Pain and Suffering and Beginners Guide to Big O|[Click here to open](401-class-01)|
+|Testing and Modules|[Click here to open](401-class-02)|
 
