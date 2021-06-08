@@ -7,7 +7,7 @@
 
 
 
-## 201 table of content: Foundation to software development
+## 201 table of content: Foundation of software development
 
 |Content|link of the page|
 |:-----:|:---------------|
