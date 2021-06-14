@@ -66,6 +66,7 @@
 |Linked Lists|[Click here to open](401-class-05)|
 |Game of Greed 1|[Click here to open](401-class-06)|
 |Game of Greed 2|[Click here to open](401-class-07)|
+|Game of Greed 3|[Click here to open](401-class-08)|
 
 
 
