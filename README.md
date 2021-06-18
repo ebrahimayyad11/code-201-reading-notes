@@ -69,3 +69,4 @@
 |Game of Greed 3|[Click here to open](401-class-08)|
 |Game of Greed 4|[Click here to open](401-class-09)|
 |Stacks and Queues|[Click here to open](401-class-10)|
+|Data Analysis|[Click here to open](401-class-11)|
