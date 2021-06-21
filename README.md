@@ -71,3 +71,4 @@
 |Stacks and Queues|[Click here to open](401-class-10)|
 |Data Analysis|[Click here to open](401-class-11)|
 |Pandas in 10|[Click here to open](401-class-12)|
+|Linear Regressions|[Click here to open](401-class-13)|
