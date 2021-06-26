@@ -74,3 +74,4 @@
 |Linear Regressions|[Click here to open](401-class-13)|
 |Data Visualization|[Click here to open](401-class-14)|
 |Trees|[Click here to open](401-class-15)|
+|Machine Learning Intro|[Click here to open](401-class-16)|
