@@ -76,3 +76,4 @@
 |Trees|[Click here to open](401-class-15)|
 |Machine Learning Intro|[Click here to open](401-class-16)|
 |Web Scraping|[Click here to open](401-class-17)|
+|Cryptography|[Click here to open](401-class-18)|
