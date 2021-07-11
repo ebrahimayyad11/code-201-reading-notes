@@ -79,3 +79,4 @@
 |Cryptography|[Click here to open](401-class-18)|
 |Automation|[Click here to open](401-class-19)|
 |Intro to Django|[Click here to open](401-class-20)|
+|Django Models|[Click here to open](401-class-21)|
