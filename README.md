@@ -81,3 +81,4 @@
 |Intro to Django|[Click here to open](401-class-20)|
 |Django Models|[Click here to open](401-class-21)|
 |Django CRUD and Forms|[Click here to open](401-class-22)|
+|Django Custom User|[Click here to open](401-class-23)|
