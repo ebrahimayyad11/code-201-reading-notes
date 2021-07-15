@@ -83,3 +83,4 @@
 |Django CRUD and Forms|[Click here to open](401-class-22)|
 |Django Custom User|[Click here to open](401-class-23)|
 |Hash Tables|[Click here to open](401-class-24)|
+|Django REST Framework & Docker|[Click here to open](401-class-25)|
