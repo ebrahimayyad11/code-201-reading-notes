@@ -84,3 +84,4 @@
 |Django Custom User|[Click here to open](401-class-23)|
 |Hash Tables|[Click here to open](401-class-24)|
 |Django REST Framework & Docker|[Click here to open](401-class-25)|
+|Permissions & Postgresql|[Click here to open](401-class-26)|
