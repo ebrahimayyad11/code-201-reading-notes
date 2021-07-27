@@ -86,3 +86,4 @@
 |Django REST Framework & Docker|[Click here to open](401-class-25)|
 |Permissions & Postgresql|[Click here to open](401-class-26)|
 |Authentication & Production Server|[Click here to open](401-class-27)|
+|API Deployment|[Click here to open](401-class-28)|
