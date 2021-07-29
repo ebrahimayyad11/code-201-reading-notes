@@ -87,3 +87,5 @@
 |Permissions & Postgresql|[Click here to open](401-class-26)|
 |Authentication & Production Server|[Click here to open](401-class-27)|
 |API Deployment|[Click here to open](401-class-28)|
+|Graphs|[Click here to open](401-class-29)|
+|DSA Review|[Click here to open](401-class-30)|
