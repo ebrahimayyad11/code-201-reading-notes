@@ -92,3 +92,4 @@
 |React 1|[Click here to open](401-class-31)|
 |React 2|[Click here to open](401-class-32)|
 |React 3|[Click here to open](401-class-33)|
+|React 4|[Click here to open](401-class-34)|
