@@ -93,3 +93,5 @@
 |React 2|[Click here to open](401-class-32)|
 |React 3|[Click here to open](401-class-33)|
 |React 4|[Click here to open](401-class-34)|
+|Pythonisms|[Click here to open](401-class-35)|
+|Ethics|[Click here to open](401-class-36)|
